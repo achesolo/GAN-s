@@ -14,6 +14,7 @@ import sys
 
 import numpy as np
 
+#**********************#
 
 class GAN:
     def __init__(self):
